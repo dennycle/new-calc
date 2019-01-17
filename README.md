@@ -2,7 +2,7 @@
 
 #### _Calculator application 01/11/2019_
 
-#### By _**Olha Wysocky and Pavel Zanchuk**_
+#### By _**Denny Le and Young Liu**_
 
 ## Description
 
